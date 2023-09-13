@@ -1,7 +1,7 @@
 package ru.nsu.fit.akitov.selfnetcopy;
 
 public enum Message {
-    ENTER, EXIT;
+    CAST, LEAVE;
 
     public byte[] toByteArray() {
         return this.name().getBytes();

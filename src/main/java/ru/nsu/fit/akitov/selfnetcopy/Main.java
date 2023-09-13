@@ -42,7 +42,7 @@ public class Main {
             UdpMulticastClient client = new UdpMulticastClient(groupAddress,
                     networkInterface, port);
             client.run();
-        } catch (UnknownHostException e) {
+        } catch (UnknownHostException | NumberFormatException e) {
             System.out.println(usage());
         } catch (IOException e) {
             e.printStackTrace();
