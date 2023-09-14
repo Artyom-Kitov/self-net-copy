@@ -41,6 +41,9 @@ public class Main {
 
             UdpMulticastClient client = new UdpMulticastClient(groupAddress,
                     networkInterface, port);
+            UdpMulticastBeacon beacon = new UdpMulticastBeacon(groupAddress,
+                    networkInterface, port);
+            new Thread(beacon).start();
             client.run();
         } catch (UnknownHostException | NumberFormatException e) {
             System.out.println(usage());

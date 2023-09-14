@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbb1823d-0d45-4eeb-bacf-c0ed4da6a52a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/Host.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/UdpMulticastBeacon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/Message.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/UdpMulticastClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/UdpMulticastClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +40,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Dockerfile" />
+        <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -83,7 +81,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Gradle.self-net-copy [jar]">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.nsu.fit.akitov.selfnetcopy.Main" />
       <module name="self-net-copy.main" />
@@ -214,6 +212,9 @@
       <workItem from="1694262467930" duration="18332000" />
       <workItem from="1694349041437" duration="6167000" />
       <workItem from="1694399080280" duration="907000" />
+      <workItem from="1694579719975" duration="2585000" />
+      <workItem from="1694585672006" duration="1208000" />
+      <workItem from="1694678997083" duration="443000" />
     </task>
     <servers />
   </component>
