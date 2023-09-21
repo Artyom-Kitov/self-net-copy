@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbb1823d-0d45-4eeb-bacf-c0ed4da6a52a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/Host.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/UdpMulticastBeacon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/Arguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/UdpMulticastClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/nsu/fit/akitov/selfnetcopy/UdpMulticastClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +212,10 @@
       <workItem from="1694399080280" duration="907000" />
       <workItem from="1694579719975" duration="2585000" />
       <workItem from="1694585672006" duration="1208000" />
-      <workItem from="1694678997083" duration="443000" />
+      <workItem from="1694678997083" duration="1148000" />
+      <workItem from="1695004769441" duration="368000" />
+      <workItem from="1695184189671" duration="3015000" />
+      <workItem from="1695278172928" duration="74000" />
     </task>
     <servers />
   </component>
